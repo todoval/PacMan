@@ -1,0 +1,10 @@
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.csprojResolveAssemblyReference.cache
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.Form1.resources
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.csproj.GenerateResource.Cache
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\todov\Desktop\Programovanie DU\C#\PacMan_Zapocet\PacMan\PacMan\obj\Debug\PacMan.Board.resources
